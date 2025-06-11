@@ -22,3 +22,13 @@ Add this to your package's `pubspec.yaml` file:
 dependencies:
   future_list_builder: ^1.0.0
 ```
+
+## TODO
+
+- [ ] Improve README documentation
+- [ ] Add example usage section
+- [ ] Provide API reference
+- [ ] Add screenshots or GIFs
+- [ ] Write contribution guidelines
+- [ ] Add FAQ section
+- [ ] Include changelog
